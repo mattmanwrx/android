@@ -429,8 +429,7 @@
   <project path="tools/external/gradle" name="platform/tools/external/gradle" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="tools/idea" name="platform/tools/idea" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
   <project path="tools/motodev" name="platform/tools/motodev" groups="notdefault,motodev" remote="aosp" revision="refs/tags/android-4.3.1_r1" />
-  <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision
-  <project path="vendor/carbon" name="CarbonDev/android_vendor_carbon" />
+  <project path="tools/swt" name="platform/tools/swt" groups="notdefault,tools" remote="aosp" revision="refs/tags/android-4.3.1_r1" />  <project path="vendor/carbon" name="CarbonDev/android_vendor_carbon" />
   <project path="vendor/tmobile/apps/ThemeChooser" name="AOKP/themes-platform-vendor-tmobile-apps-ThemeChooser" remote="gh" revision="jb-mr2" />
   <project path="vendor/tmobile/libs/com.tmobile.themes" name="AOKP/vendor_tmobile_libs_com.tmobile.themes" remote="gh" revision="jb-mr2" />
   <project path="vendor/tmobile/providers/ThemeManager" name="AOKP/vendor_tmobile_providers_ThemeManager" remote="gh" revision="jb-mr2" />
